@@ -1,0 +1,4 @@
+5 May 2019 11:57:53 GMT: Log 'EclipseCompiler.txt' opened: 5 May 2019 11:57:53 GMT with name D:\ICS (12)\Assignments\OOP\EclipseCompiler.txt
+5 May 2019 11:58:13 GMT: Log 'EclipseCompiler.txt' opened: 5 May 2019 11:58:13 GMT with name D:\ICS (12)\Assignments\OOP\EclipseCompiler.txt
+7 May 2019 0:29:48 GMT: Log 'EclipseCompiler.txt' opened: 7 May 2019 0:29:48 GMT with name D:\ICS (12)\Assignments\OOP\EclipseCompiler.txt
+7 May 2019 0:29:50 GMT: Log 'EclipseCompiler.txt' opened: 7 May 2019 0:29:50 GMT with name D:\ICS (12)\Assignments\OOP\EclipseCompiler.txt
